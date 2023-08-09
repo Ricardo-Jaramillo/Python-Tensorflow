@@ -89,6 +89,13 @@ ipython_config.py
 tensorflow/
 modelSaved_format/
 HDF5_format/
+pizza_steak/
+10_food_classes_all_data/
+*.zip
+*.jpg
+*.jpeg
+saved_trained_model_10
+__MACOSX/
 
 # pipenv
 #   According to pypa/pipenv#598, it is recommended to include Pipfile.lock in version control.
